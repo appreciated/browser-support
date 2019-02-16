@@ -1,6 +1,7 @@
 # Browser Support
 
-Vaadin 10 Java integration of https://github.com/JeffLeFoll/slate-font-awesome
+Some Vaadin addons do not bring any IE support, which isn't too much of a problem since actually only <3% use it. Instead of presenting the users an unusable UI, tell them that this application does not support it anymore. 
+Also motivate them to download another browser and visit this website again!
 
 ## Development instructions
 
