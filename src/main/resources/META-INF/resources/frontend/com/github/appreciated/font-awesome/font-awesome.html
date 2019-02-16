@@ -1,0 +1,19 @@
+<link rel="import" href="../../../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../../../bower_components/slate-font-awesome/slate-font-awesome.html">
+<dom-module id="font-awesome-test">
+    <template>
+        <style include="slate-font-awesome"></style>
+        <i id="icon"></i>
+    </template>
+
+    <script>
+        class FontAwesome extends Polymer.Element {
+            static get is() {
+                return 'font-awesome-test';
+            }
+        }
+        window.customElements.define(FontAwesome.is, FontAwesome);
+    </script>
+</dom-module>
+<font-awesome-test></font-awesome-test>
+
