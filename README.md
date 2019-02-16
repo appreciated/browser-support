@@ -1,6 +1,6 @@
 # Browser Support
 
-Vaadin 10 Java integration of https://github.com/LostInBrittany/granite-font-awesome
+Vaadin 10 Java integration of https://github.com/JeffLeFoll/slate-font-awesome
 
 ## Development instructions
 
