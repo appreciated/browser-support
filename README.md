@@ -1,8 +1,8 @@
 # Browser Support
 
-Some Vaadin addons do not bring any IE support, which isn't too much of a problem since actually only <3% use it. But instead of presenting the users an unusable UI, it might be a good idea to tell them that your application does not support it anymore. 
+Some Vaadin addons do not bring any IE support, which actually isn't too much of a problem since actually only <3% use it. But instead of presenting the users an unusable UI, it is a better idea to tell them right at the first visit that your application does not support the browser of their choice. 
 
-This addon allows to tell this the user easily, motivates the user to download another browser and ask them to visit the website again.
+This addon allows to tell this the user easily and also motivates them to download another browser and asks to visit the website again.
 
 ## Development instructions
 
