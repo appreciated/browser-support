@@ -8,7 +8,7 @@
     <description>Integration of granite-font-awesome for Vaadin platform</description>
 
     <properties>
-        <vaadin.version>12.0.5</vaadin.version>
+        <vaadin.version>14.4.10</vaadin.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
